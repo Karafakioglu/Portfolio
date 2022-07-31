@@ -1,0 +1,70 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+    margin-right: 5rem;
+    margin-left: 5rem;
+}
+
+header nav{
+    display: flex;
+}
+
+header nav p{
+    padding: 1rem;
+}
+
+#portfolio-img{
+    max-width: 500px;
+    max-height: 300px;
+}
+
+.about-me-container{
+    display: flex;
+    justify-content: center;
+}
+
+.about-me{
+   padding-left: 2rem;
+   max-width: 30%;
+}
+.about-me h2{
+    padding-bottom: 1rem;
+}
+
+.slicer{
+    height: 3rem;
+    width: 100%;
+    background-color: midnightblue;
+}
+
+.projects-container{
+    text-align: center;
+    padding: 2rem;
+}
+
+.projects{
+    display: flex;
+    justify-content: center;
+}
+
+.projects p{
+    padding: 2rem;
+}
+
+#github-logo{
+    width: 3rem;
+    height: 3rem;
+}
+
+address{
+    text-align: center;
+    margin: 2rem;
+}
+address a{
+    padding: 1rem;
+}
+
+footer{
+    text-align: center;
+}
